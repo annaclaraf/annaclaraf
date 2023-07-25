@@ -1,6 +1,8 @@
-## ✨ Hi there 👋 
+<h2 align="center"> ✨ Hi there 👋 </h2>
 
-<img align="right" width="150" src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif">
+<p align="center" width="100%">
+<img align="center" width="50%" src="https://github.com/annaclaraf/annaclaraf/assets/80119297/3b6366d3-ebad-48d1-a078-6054ead2f541">
+</p>
 
 <br>
 
