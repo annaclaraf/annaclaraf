@@ -10,8 +10,6 @@
   Hello, my name is Anna Clara, I'm student of Information Systems at IFBA in Vitória da Conquista - Bahia. I'm passionate about programming. I love to learn and contribute in any and every possible way. Always open to new challenges.
 </p>
 
-<br>
-
 <h3 align="center"> Reach Me </h3>
 
 <div align="center">
@@ -22,6 +20,6 @@
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=annaclaraf&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=contribs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaclaraf&layout=compact&theme=nord&langs_count=6">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=annaclaraf&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide=contribs&rank_icon=github">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaclaraf&layout=compact&theme=material-palenight&langs_count=6">
 </div>
