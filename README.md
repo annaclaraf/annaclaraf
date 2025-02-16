@@ -5,7 +5,7 @@ I'm a frontend developer specializing in Shopify development, with extensive exp
 🛠️ Technologies & Skills
 I have experience with:
 - Liquid
-- Shopify API
+- Shopify
 - JavaScript
 - TypeScript
 - React
